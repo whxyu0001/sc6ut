@@ -1,7 +1,6 @@
 # sc6ut
 
-sc6ut is A Rich Discord Music Bot Supports Spotify and SoundCloud with aesthetic focused
-You could invite our main bot [here](https://whxyu.space/invite)
+sc6ut is A Rich Discord Music Bot Supports Spotify and SoundCloud with aesthetic focused,you could invite our main bot [here](https://whxyu.space/invite)
 ## Features
 - Stable and not really well written
 - Written in js so its easy to customize
