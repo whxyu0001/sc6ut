@@ -45,4 +45,4 @@ npm run start
 ```
 
 ## Head Developers
-- adi6n </>#1337 (1033580960882626630)
+- @whxyu_ (1033580960882626630)
